@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Exer 6</title>
+    <script src="jquery.min.js"></script>
+    <script src="exer6.js"></script>
+    <style>
+        form{
+            margin: 15px;
+        }
+
+        input{
+            margin: 5px;
+        }
+
+        table{
+            background: #ccc;
+            color: #ccc;
+            line-height: 30px;
+            margin: 15px;
+        }
+
+        th{
+            background: #000033;
+            font-size: 15px;
+            font-weight: 700;
+            text-align: center;
+            padding: 5px;
+        }
+
+        td{
+            background: #000066;
+            font-size: 14px;
+            text-align: center;
+            padding: 5px;
+        }
+
+        #green{
+            color: rgb(125, 243, 109);
+        }
+
+        #yellow{
+            color: yellow;
+        }
+
+        #red{
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <form>
+        Nome: <input type="text" name="nome" id="nome" placeholder="Digite seu nome..."><br>
+        Rgm: <input type="text" name="rgm" id="rgm" placeholder="Informe seu RGM..."><br>
+        Nota Parcial (Até 2 pontos): <input type="text" name="notParci" id="notParci" placeholder="Informe a nota parcial"><br>
+        Nota Exercicios (Até 1 ponto): <input type="text" name="notExer" id="notExer" placeholder="Informe a nota dos exercicios"><br>
+        Nota Projeto (Até 2 pontos): <input type="text" name="notProj" id="notProj" placeholder="Informe a nota do projeto"><br>
+        Nota Regimental (Até 5 pontos): <input type="text" name="notReg" id="notReg" placeholder="Informe a nota da regimental"><br>
+        <button type="button" id="cad">Cadastrar</button>
+        <button type="button" id="exibir">Exibir</button>
+    </form>
+    <div id="res"></div>
+</body>
+</html>

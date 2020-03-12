@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<receitafederal>
+    <dadospessoais>
+        <pessoa id="c1c1c1c1c1c1">
+            <cpf>111.111.111-11</cpf>
+            <rg>111.111.111-11</rg>
+            <nome>Ana Souza</nome>
+            <datadenascimento>07/05/1950</datadenascimento>
+            <endereco>Rua Serra de Bragança</endereco>
+            <logradouro>
+                <numero>856</numero>
+                <bairro>Real Parque</bairro>
+                <cep>64000290</cep>
+                <cidade>Fortaleza</cidade>
+                <estado>RN</estado>
+                </logradouro>
+                <contato>
+                    <telefone>8498468449854</telefone>
+                    <celular>564565645516</celular>
+                    <email>gregtre@gmail.com</email>
+                </contato>
+                <dadosprivados>
+                    <renda>432432</renda>
+                    <foto></foto>
+                    <contacorrente>gtyjhntef</contacorrente>
+                    <banco>rtrefgtrgrf</banco>
+                    <agencia>rewfregtr</agencia>
+                    <numerodaconta>rterferge</numerodaconta>
+                </dadosprivados>
+        </pessoa>
+
+        <pessoa id="c2c2c2c2c2c">
+            <cpf>111.111.111-11</cpf>
+            <rg>111.111.111-11</rg>
+            <nome>Ana Souza</nome>
+            <datadenascimento>07/05/1950</datadenascimento>
+            <endereco>Rua Serra de Bragança</endereco>
+            <logradouro>
+                <numero>856</numero>
+                <bairro>Real Parque</bairro>
+                <cep>64000290</cep>
+                <cidade>Fortaleza</cidade>
+                <estado>RN</estado>
+                </logradouro>
+                <contato>
+                    <telefone>8498468449854</telefone>
+                    <celular>564565645516</celular>
+                    <email>gregtre@gmail.com</email>
+                </contato>
+                <dadosprivados>
+                    <renda>432432</renda>
+                    <foto></foto>
+                    <contacorrente>gtyjhntef</contacorrente>
+                    <banco>rtrefgtrgrf</banco>
+                    <agencia>rewfregtr</agencia>
+                    <numerodaconta>rterferge</numerodaconta>
+                </dadosprivados>
+        </pessoa>
+
+        <pessoa id="c33c3c3c3c">
+            <cpf>111.111.111-11</cpf>
+            <rg>111.111.111-11</rg>
+            <nome>Ana Souza</nome>
+            <datadenascimento>07/05/1950</datadenascimento>
+            <endereco>Rua Serra de Bragança</endereco>
+            <logradouro>
+                <numero>856</numero>
+                <bairro>Real Parque</bairro>
+                <cep>64000290</cep>
+                <cidade>Fortaleza</cidade>
+                <estado>RN</estado>
+                </logradouro>
+                <contato>
+                    <telefone>8498468449854</telefone>
+                    <celular>564565645516</celular>
+                    <email>gregtre@gmail.com</email>
+                </contato>
+                <dadosprivados>
+                    <renda>432432</renda>
+                    <foto></foto>
+                    <contacorrente>gtyjhntef</contacorrente>
+                    <banco>rtrefgtrgrf</banco>
+                    <agencia>rewfregtr</agencia>
+                    <numerodaconta>rterferge</numerodaconta>
+                </dadosprivados>
+        </pessoa>
+
+        <pessoa id="c4c4c4c4c4c4c4">
+            <cpf>111.111.111-11</cpf>
+            <rg>111.111.111-11</rg>
+            <nome>Ana Souza</nome>
+            <datadenascimento>07/05/1950</datadenascimento>
+            <endereco>Rua Serra de Bragança</endereco>
+            <logradouro>
+                <numero>856</numero>
+                <bairro>Real Parque</bairro>
+                <cep>64000290</cep>
+                <cidade>Fortaleza</cidade>
+                <estado>RN</estado>
+                </logradouro>
+                <contato>
+                    <telefone>8498468449854</telefone>
+                    <celular>564565645516</celular>
+                    <email>gregtre@gmail.com</email>
+                </contato>
+                <dadosprivados>
+                    <renda>432432</renda>
+                    <foto></foto>
+                    <contacorrente>gtyjhntef</contacorrente>
+                    <banco>rtrefgtrgrf</banco>
+                    <agencia>rewfregtr</agencia>
+                    <numerodaconta>rterferge</numerodaconta>
+                </dadosprivados>
+        </pessoa>
+
+        <pessoa id="c5c5c5c5c5c5">
+            <cpf>111.111.111-11</cpf>
+            <rg>111.111.111-11</rg>
+            <nome>Ana Souza</nome>
+            <datadenascimento>07/05/1950</datadenascimento>
+            <endereco>Rua Serra de Bragança</endereco>
+            <logradouro>
+                <numero>856</numero>
+                <bairro>Real Parque</bairro>
+                <cep>64000290</cep>
+                <cidade>Fortaleza</cidade>
+                <estado>RN</estado>
+                </logradouro>
+                <contato>
+                    <telefone>8498468449854</telefone>
+                    <celular>564565645516</celular>
+                    <email>gregtre@gmail.com</email>
+                </contato>
+                <dadosprivados>
+                    <renda>432432</renda>
+                    <foto></foto>
+                    <contacorrente>gtyjhntef</contacorrente>
+                    <banco>rtrefgtrgrf</banco>
+                    <agencia>rewfregtr</agencia>
+                    <numerodaconta>rterferge</numerodaconta>
+                </dadosprivados>
+        </pessoa>
+    </dadospessoais>
+</receitafederal>

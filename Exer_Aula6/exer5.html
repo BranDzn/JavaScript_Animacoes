@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Exer 5</title>
+    <script src="exer5.js"></script>
+
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        body{
+            background-color: #dddd;
+            font-family: Arial;
+        }
+
+        .nav_tabs{
+            width: 450px;
+            height: 400px;
+            margin: 100px auto;
+            background-color: rgb(155, 248, 248);
+            position: relative;
+        }
+
+        .nav_tabs ul {
+            list-style: none;
+        }
+
+        .nav_tabs ul li{
+            float: left;
+        }
+
+        .nav_tabs label{
+            border-bottom: 5px solid #fff;
+            width: 100px;
+            padding: 25px;
+            background-color: #363b48;
+            display: block;
+            color: #fff;
+            cursor: pointer;
+            text-align: center;
+        }
+
+        .rd_tabs:checked ~ label{
+            background-color: #e54e43;
+        }
+
+        .rd_tabs{
+            display: none;
+        }
+        
+        .content{
+            margin: 5px;
+            padding: 5px;
+            display: none;
+            position: absolute;
+            height: 320px;
+            width: 450px;
+            left: 0;
+        }
+
+        .rd_tabs:checked ~ .content{
+            display: block;
+        }
+
+        #n1{
+            margin-top: 15px;
+        }
+
+        img{
+            width: 200px;
+            height: 150px;
+        }
+        span{
+            padding-right: 20px;
+            color: rgb(88, 112, 248);
+            text-decoration-line: underline;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <nav class="nav_tabs">
+        <ul>
+            <li>
+                <input type="radio" name="tabs" class="rd_tabs" id="cro">
+                <label for="cro">Cronômetro</label>
+                <div class="content" id="res1">
+
+                </div>
+            </li>
+
+            <li>
+                <input type="radio" name="tabs" class="rd_tabs" id="slide">
+                <label for="slide">Slide Show</label>
+                <div class="content">
+                    <img src="slide/img1.jpg" alt="slide show" id="banner"><br>
+                    <span id="ant">Anterior</span>
+                    <span id="pro">Próxima</span>
+                </div>
+            </li>
+
+            <li>
+                <input type="radio" name="tabs" class="rd_tabs" id="tab">
+                <label for="tab">Tabuada</label>
+                <div class="content">
+                    Digite o número da tabuada que deseja calcular:
+                    <input type="text" name="n1" id="n1">
+                    <input type="button" value="Calcular" id="btn">
+                    <div id="res3"></div>
+                </div>
+            </li>
+        </ul>
+    </nav>
+</body>
+</html>
